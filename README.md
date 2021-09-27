@@ -1,2 +1,1 @@
-# Sqlite3 Useful Custom Class
-
+## Personal useful note 
